@@ -1,1 +1,1 @@
-To install office 365. Download the exe setup and double click on it and wait untill install all software
+To install office 365. Download the exe setup by clicking "officesetup.exe" Than Click "View Raw" after Download Go to file manager than enter in Download Section and double click on it and wait untill install all software
